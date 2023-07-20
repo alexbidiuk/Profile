@@ -1,4 +1,4 @@
-<code>🎓 JS Tech Lead </code>
+<code>🎓 Lead Software Engineer</code>
 <code>💡 [Skills](SKILLS.md)</code>
 <code>📢 [Public talks: 1](TALKS.md)</code>
 <code>🧑‍💻 Languages: JavaScript</code>
